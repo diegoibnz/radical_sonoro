@@ -7,7 +7,7 @@ $user_id = $data['user_id'];
 
 // Start data deletion
 
-$status_url = 'https://diegoibnz.github.io/radical_sonoro/solicitud_eliminacion_datos.html?id=abc123'; // URL to track the deletion
+$status_url = 'https://diegoibnz.github.io/radical_sonoro/solicitud_eliminacion_datos.html'; // URL to track the deletion
 $confirmation_code = 'abc123'; // unique code for the deletion request
 
 $data = array(
